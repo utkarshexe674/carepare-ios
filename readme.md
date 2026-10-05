@@ -4,7 +4,7 @@ CarePare is an enterprise-grade native iOS application developed in **SwiftUI**,
 
 ---
 
-## 👥 Engineering Team & Technical Leadership
+## Engineering Team & Technical Leadership
 
 * **Project Mentor / Technical Director**: **Anjali Srivastava**
 
@@ -17,7 +17,7 @@ CarePare is an enterprise-grade native iOS application developed in **SwiftUI**,
 
 ---
 
-## 🏛️ System Architecture
+##  System Architecture
 
 The application adopts the **MVVM (Model-View-ViewModel)** architectural pattern, leveraging Apple's `Combine` framework for deterministic, unidirectional data flow.
 
